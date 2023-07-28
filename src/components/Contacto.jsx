@@ -10,7 +10,7 @@ const Contacto = () => {
 
   return (
 
-    <div className="container">
+    <div className="container d-flex flex-column align-items-center justify-content-center">
         <h1 className="main-title">Contacto</h1>
         <form className="formulario" onSubmit={handleSubmit(enviar)}>
 

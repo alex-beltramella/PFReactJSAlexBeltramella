@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react'
+import logo from "./logo/logo.png"
 
 const Nosotros = () => {
 
@@ -18,8 +19,8 @@ const Nosotros = () => {
 
   return (
     <div className="container">
-        <h1 className="main-title">Nosotros</h1>
-        <p>Este es el componente "Nosotros"</p>
+        <div className='d-flex justify-content-center'><img className='img-nosotros' src={logo} alt="" /></div>
+        <p className='p-nosotros'>Esta pagina está hecha con mucho amor y facilidad para ulitizarla adecuadamente, somo VIBRA COFFE SHOP; vendemos café y jugos a eleccion, todo natural, nada procesado por industrias agenas</p>
     </div>
   )
 }
