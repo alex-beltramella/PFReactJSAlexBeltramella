@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "titulo": "Café - Nesspreso",
+        "descripcion": "Capsula de café puro",
+        "categoria": "Cafés",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 550,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "café - Esspreso",
+        "descripcion": "es un tipo de café negro fuerte que se forma cuando el agua caliente pasa a mucha presión través de los granos de café molidos",
+        "categoria": "cafés",
+        "imagen": "https://img.freepik.com/fotos-premium/espresso-sabroso-servido-taza-granos-cafe-alrededor-cuchara-cerca-fondo-oscuro_1220-5750.jpg",
+        "precio": 600,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "Café - Mocaccino",
+        "descripcion": "también denominado café moca, es una forma de preparar café que aúna, además de café, leche y chocolate o cacao en polvo.",
+        "categoria": "Cafés",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 650,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "jugo - naranja",
+        "descripcion": "Refresco extraido de naranjas naturales.",
+        "categoria": "jugos",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 300,
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "titulo": "jugo - pomelo",
+        "descripcion": "Refresco extraido de pomelos naturales.",
+        "categoria": "jugos",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 350,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "jugo - uva",
+        "descripcion": "Refresco extraido de uvas naturales.",
+        "categoria": "jugos",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 350,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "jugo - Kiwi",
+        "descripcion": "Refresco extraido de kiwis naturales.",
+        "categoria": "jugos",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 400,
+        "stock": 10
+    }
+]
