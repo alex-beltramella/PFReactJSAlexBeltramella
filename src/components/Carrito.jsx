@@ -12,7 +12,6 @@ const Carrito = () => {
 
     return (
     <div className="container-carrito">
-        <h1 className="main-title">Carrito</h1>
 
         {
             carrito.map((prod) => (
@@ -35,7 +34,7 @@ const Carrito = () => {
                 <button className='boton-vaciar' onClick={handleVaciar}>Vaciar</button>
                 <Link className='boton-finalizar-compra' to="/checkout">Finalizar compra</Link>
             </div> :
-            <h2>El carrito está vacío :(</h2>
+            <h2 className='carrito-vacio'>El carrito está vacío :(</h2>
         }
         
     </div>

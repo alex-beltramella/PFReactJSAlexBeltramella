@@ -188,6 +188,10 @@
     align-items: center;
 }
 
+.carrito-vacio {
+    margin-top: 100px;
+}
+
 
 .boton-vaciar {
     border: 1px solid black;
