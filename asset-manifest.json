@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alex-beltramella/PFReactJSAlexBeltramella/static/css/main.2c0ec143.css",
+    "main.js": "/alex-beltramella/PFReactJSAlexBeltramella/static/js/main.e3b051ee.js",
+    "static/media/logo.png": "/alex-beltramella/PFReactJSAlexBeltramella/static/media/logo.ef45137664ac32a79412.png",
+    "static/media/carrito.svg": "/alex-beltramella/PFReactJSAlexBeltramella/static/media/carrito.b1d163cd78f5aff3b025b8bdc9afbe0b.svg",
+    "index.html": "/alex-beltramella/PFReactJSAlexBeltramella/index.html",
+    "main.2c0ec143.css.map": "/alex-beltramella/PFReactJSAlexBeltramella/static/css/main.2c0ec143.css.map",
+    "main.e3b051ee.js.map": "/alex-beltramella/PFReactJSAlexBeltramella/static/js/main.e3b051ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c0ec143.css",
+    "static/js/main.e3b051ee.js"
+  ]
+}
